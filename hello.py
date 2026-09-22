@@ -1,2 +1,1 @@
-print("Memes dna of the soul"
-)
+print("Memes the DNA of the soul")
